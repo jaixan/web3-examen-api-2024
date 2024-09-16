@@ -1,0 +1,386 @@
+[
+    {
+        "numeroFacture": 4122,
+        "dateFacture": "2023-07-23",
+        "client": {
+            "nom": "Leroux",
+            "prenom": "Ameline",
+            "genre": "F"
+        },
+        "carteDeCredit": "3518021742391126",
+        "services": [
+            {
+                "nomService": "internet",
+                "prixService": 79.96
+            },
+            {
+                "nomService": "tv",
+                "prixService": 18.58
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 67.7
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3086,
+        "dateFacture": "2023-02-05",
+        "client": {
+            "nom": "Boyer",
+            "prenom": "Melchior",
+            "genre": "M"
+        },
+        "carteDeCredit": "8699735736305244",
+        "services": [
+            {
+                "nomService": "internet",
+                "prixService": 90.87
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4792,
+        "dateFacture": "2023-07-18",
+        "client": {
+            "nom": "Guillot",
+            "prenom": "Morgane",
+            "genre": "F"
+        },
+        "carteDeCredit": "6011081716493634",
+        "services": [
+            {
+                "nomService": "cellulaire",
+                "prixService": 93.55
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4379,
+        "dateFacture": "2022-11-09",
+        "client": {
+            "nom": "Girard",
+            "prenom": "Ameline",
+            "genre": "F"
+        },
+        "carteDeCredit": "8699851166100342",
+        "services": [
+            {
+                "nomService": "cellulaire",
+                "prixService": 12.1
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 9.75
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4259,
+        "dateFacture": "2023-03-08",
+        "client": {
+            "nom": "Legrand",
+            "prenom": "Assomption",
+            "genre": "F"
+        },
+        "carteDeCredit": "5537541920176975",
+        "services": [
+            {
+                "nomService": "internet",
+                "prixService": 85.41
+            },
+            {
+                "nomService": "cellulaire",
+                "prixService": 92.89
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4551,
+        "dateFacture": "2023-05-05",
+        "client": {
+            "nom": "Roger",
+            "prenom": "Annabelle",
+            "genre": "F"
+        },
+        "carteDeCredit": "371283955749059",
+        "services": [
+            {
+                "nomService": "cellulaire",
+                "prixService": 37.32
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4896,
+        "dateFacture": "2023-04-14",
+        "client": {
+            "nom": "Fernandez",
+            "prenom": "Charles",
+            "genre": "M"
+        },
+        "carteDeCredit": "5369468973994018",
+        "services": [
+            {
+                "nomService": "cellulaire",
+                "prixService": 45.54
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 81.9
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4416,
+        "dateFacture": "2022-10-06",
+        "client": {
+            "nom": "Julien",
+            "prenom": "Clémentine",
+            "genre": "F"
+        },
+        "carteDeCredit": "4916391912250840",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 42.9
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4537,
+        "dateFacture": "2023-07-22",
+        "client": {
+            "nom": "Muller",
+            "prenom": "Cyrielle",
+            "genre": "F"
+        },
+        "carteDeCredit": "4716391062167275",
+        "services": [
+            {
+                "nomService": "téléphone",
+                "prixService": 95.19
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3480,
+        "dateFacture": "2022-12-29",
+        "client": {
+            "nom": "Carpentier",
+            "prenom": "Ambre",
+            "genre": "F"
+        },
+        "carteDeCredit": "8699522348469810",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 35.34
+            },
+            {
+                "nomService": "internet",
+                "prixService": 66.45
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3268,
+        "dateFacture": "2023-09-07",
+        "client": {
+            "nom": "Roger",
+            "prenom": "Nathanaël",
+            "genre": "M"
+        },
+        "carteDeCredit": "3005782305912315",
+        "services": [
+            {
+                "nomService": "cellulaire",
+                "prixService": 58.99
+            },
+            {
+                "nomService": "internet",
+                "prixService": 43.17
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 23.29
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4932,
+        "dateFacture": "2023-07-28",
+        "client": {
+            "nom": "Caron",
+            "prenom": "Alcime",
+            "genre": "M"
+        },
+        "carteDeCredit": "8699950940624062",
+        "services": [
+            {
+                "nomService": "cellulaire",
+                "prixService": 82.55
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 35.97
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3115,
+        "dateFacture": "2023-04-01",
+        "client": {
+            "nom": "Lefebvre",
+            "prenom": "Hubert",
+            "genre": "M"
+        },
+        "carteDeCredit": "3016666897566307",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 44.83
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 61.64
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3151,
+        "dateFacture": "2023-01-31",
+        "client": {
+            "nom": "Blanchard",
+            "prenom": "Arsinoé",
+            "genre": "M"
+        },
+        "carteDeCredit": "375443962981022",
+        "services": [
+            {
+                "nomService": "téléphone",
+                "prixService": 8.99
+            },
+            {
+                "nomService": "tv",
+                "prixService": 79.12
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3721,
+        "dateFacture": "2023-03-04",
+        "client": {
+            "nom": "Mathieu",
+            "prenom": "Cyprien",
+            "genre": "M"
+        },
+        "carteDeCredit": "3622559220931056",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 81.88
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4888,
+        "dateFacture": "2023-06-02",
+        "client": {
+            "nom": "Julien",
+            "prenom": "Archange",
+            "genre": "M"
+        },
+        "carteDeCredit": "3575876056633227",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 18.36
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4986,
+        "dateFacture": "2022-12-14",
+        "client": {
+            "nom": "Vidal",
+            "prenom": "Adhémar",
+            "genre": "M"
+        },
+        "carteDeCredit": "3676601774383519",
+        "services": [
+            {
+                "nomService": "téléphone",
+                "prixService": 71.25
+            },
+            {
+                "nomService": "tv",
+                "prixService": 19.11
+            },
+            {
+                "nomService": "téléphone",
+                "prixService": 14.85
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3890,
+        "dateFacture": "2023-05-26",
+        "client": {
+            "nom": "Aubry",
+            "prenom": "Odile",
+            "genre": "F"
+        },
+        "carteDeCredit": "6011410335029810",
+        "services": [
+            {
+                "nomService": "téléphone",
+                "prixService": 15.23
+            }
+        ]
+    },
+    {
+        "numeroFacture": 3240,
+        "dateFacture": "2023-03-23",
+        "client": {
+            "nom": "Berger",
+            "prenom": "Anstrudie",
+            "genre": "F"
+        },
+        "carteDeCredit": "3636050145240926",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 33.93
+            },
+            {
+                "nomService": "cellulaire",
+                "prixService": 27.64
+            },
+            {
+                "nomService": "tv",
+                "prixService": 18.92
+            }
+        ]
+    },
+    {
+        "numeroFacture": 4699,
+        "dateFacture": "2023-07-03",
+        "client": {
+            "nom": "Nguyen",
+            "prenom": "Norbert",
+            "genre": "M"
+        },
+        "carteDeCredit": "348225767582822",
+        "services": [
+            {
+                "nomService": "tv",
+                "prixService": 62.21
+            },
+            {
+                "nomService": "cellulaire",
+                "prixService": 72.14
+            }
+        ]
+    }
+]
